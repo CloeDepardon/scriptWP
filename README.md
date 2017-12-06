@@ -1,8 +1,8 @@
 # scriptWP
 
-// BEFORE USING THIS SCRIPT : install mysql-server, create databse "wordpress" //
+Script bash that allows you to create and customize a Wordpress.
 
-Script bash that allows you to create and customize a Wordpress :
+// BEFORE USING THIS SCRIPT : install mysql-server, create database 'wordpress' //
 
   INSTALLATION
   - install packages (mysql-server apache2 php7.0 php7.0-mysql libapache2-mod-php7.0)
